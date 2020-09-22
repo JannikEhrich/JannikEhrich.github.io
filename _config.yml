@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jannik Ehrich"
 title_separator          : "-"
 name                     : &name "Jannik Ehrich"
-description              : &description "Postdoctoral Researcher at Simon Fraser University"
+description              : &description "Theoretical Physicist"
 url                      : https://jannikehrich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JannikEhrich/JannikEhrich.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=svmpkxsAAAAJ&hl=de"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jannik_Ehrich"
+  researchgate     : "https://www.researchgate.net/profile/Jannik_Ehrich"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jannik-ehrich-b9b41980/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2033-8466"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
