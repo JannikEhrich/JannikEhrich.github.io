@@ -12,12 +12,12 @@ author_profile: true
 
 ## Published Articles
 
-0. *Optimal finite-time bit erasure under full control* (2020)
+0. *Optimal finite-time bit erasure under full control*
 	Karel Proesmans, Jannik Ehrich, and John Bechhoefer\
-	[Physical Review E **102**, 032105](https://doi.org/10.1103/PhysRevE.102.032105) ([arXiv](https://arxiv.org/abs/2006.03240))
-0. *Finite-time Landauer Principle* (2020) **(Editors' Suggestion)**\
+	[Physical Review E **102**, 032105 (2020)](https://doi.org/10.1103/PhysRevE.102.032105) ([arXiv](https://arxiv.org/abs/2006.03240))
+0. *Finite-time Landauer Principle* **(Editors' Suggestion)**\
 	Karel Proesmans, Jannik Ehrich, and John Bechhoefer\
-	[Physical Review Letters **125**, 100602](https://doi.org/10.1103/PhysRevLett.125.100602) ([arXiv](https://arxiv.org/abs/2006.03242))
+	[Physical Review Letters **125**, 100602 (2020)](https://doi.org/10.1103/PhysRevLett.125.100602) ([arXiv](https://arxiv.org/abs/2006.03242))
 0. Micro Reversibility
 0. Microswimmer
 0. Hidden Degrees
