@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ## Preprints
-2. Test
-1. test 1
+* Test
+* test 1
 
 
 ## Published Articles
