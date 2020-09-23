@@ -19,7 +19,7 @@ author_profile: true
 0. *Finite-time Landauer Principle* **(Editors' Suggestion)**\
 	Karel Proesmans, Jannik Ehrich, and John Bechhoefer\
 	[Physical Review Letters **125**, 100602 (2020)](https://doi.org/10.1103/PhysRevLett.125.100602) ([arXiv](https://arxiv.org/abs/2006.03242))\
-	&rarr Refined Landauer limit for bit erasure in finite time, simple bounds on erasure cost, and a method showing how to find minimum-dissipation erasure protocols
+	<sub> Refined Landauer limit for bit erasure in finite time, simple bounds on erasure cost, and a method showing how to find minimum-dissipation erasure protocols </sub> 
 	
 0. Micro Reversibility
 
