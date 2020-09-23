@@ -16,4 +16,4 @@ author_profile: true
 {: reversed="reversed"}
 
 ## Thesis
-**Coupled and Hidden Degrees of Freedom in Stochastic Thermodynamics**, Carl von Ossietzky Universität Oldenburg, 2020 ([arXiv](https://arxiv.org/abs/2007.15223))
+*Coupled and Hidden Degrees of Freedom in Stochastic Thermodynamics*, Carl von Ossietzky Universität Oldenburg, 2020 ([arXiv](https://arxiv.org/abs/2007.15223))
