@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Below is a list of scientific articles that I have (co-) authored.
 
 ## Preprints
 * *Free energy transduction within autonomous systems* (2020)\
