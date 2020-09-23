@@ -7,7 +7,6 @@ author_profile: true
 ## Preprints
 * *Free energy transduction within autonomous systems* (2020)\
 	Steven J. Large, Jannik Ehrich, and David A. Sivak  ([arXiv](https://arxiv.org/abs/2008.03402))
-	
 
 
 ## Published Articles
@@ -24,7 +23,10 @@ author_profile: true
 	
 0. Micro Reversibility
 
-0. Microswimmer
+0. *Approximating microswimmer dynamics by active Brownian motion: Energetics and efficiency*\
+	Jannik Ehrich and Marcel Kahlen\
+	[Physical Review E **99**, 012118 (2019)](https://doi.org/10.1103/PhysRevE.99.012118) ([arXiv](https://arxiv.org/abs/1809.07235))\
+	<sub> Dynamics of a microswimmer are shown to approximate active Brownian motion, comparison of energy dissipation rates of approximation and full model, introduction of a swimming efficiency  </sub> 
 
 0. Hidden Degrees
 
