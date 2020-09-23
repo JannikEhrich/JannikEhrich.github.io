@@ -12,7 +12,7 @@ author_profile: true
 
 ## Published Articles
 
-0. *Optimal finite-time bit erasure under full control*
+0. *Optimal finite-time bit erasure under full control*\
 	Karel Proesmans, Jannik Ehrich, and John Bechhoefer\
 	[Physical Review E **102**, 032105 (2020)](https://doi.org/10.1103/PhysRevE.102.032105) ([arXiv](https://arxiv.org/abs/2006.03240))
 0. *Finite-time Landauer Principle* **(Editors' Suggestion)**\
