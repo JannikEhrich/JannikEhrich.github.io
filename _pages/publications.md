@@ -35,7 +35,7 @@ Below is a list of scientific articles that I have (co-) authored.
 
 0. *Hidden slow degrees of freedom and fluctuation theorems: an analytically solvable model*\
 	Marcel Kahlen and Jannik Ehrich\
-	[Journal of Statistical Mechanics: Theory and Experiment, 063204 (2018))](https://doi.org/10.1088/1742-5468/aac2fd) ([arXiv](https://arxiv.org/abs/1803.04740))\
+	[Journal of Statistical Mechanics: Theory and Experiment, 063204 (2018)](https://doi.org/10.1088/1742-5468/aac2fd) ([arXiv](https://arxiv.org/abs/1803.04740))\
 	<sub> Analytically tractable model illustrating how unobserved degrees of freedom modify fluctuation theorems for the apparent entropy production and calculation of full, non-Markovian marginal entropy production via path integrals </sub> 
 
 0. *Stochastic thermodynamics of interacting degrees of freedom: Fluctuation theorems for detached path probabilities*\
