@@ -3,9 +3,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 ## Preprints
-* Test
-* test 1
+* *Free energy transduction within autonomous systems* (2020)
+	Steven J. Large, Jannik Ehrich, and David A. Sivak  ([arXiv](https://arxiv.org/abs/2008.03402))
+	
 
 
 ## Published Articles
