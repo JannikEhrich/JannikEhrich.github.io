@@ -11,10 +11,9 @@ author_profile: true
 
 ## Published Articles
 
-  4. Article 4
-    Some stuff to explain
-  3. Article 3
-  2. Article 2
-  1. Article1
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
 
 ## Thesis
