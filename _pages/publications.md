@@ -7,7 +7,7 @@ Below is a list of scientific articles that I have (co-) authored.
 
 ## Preprints
 * *Free energy transduction within autonomous systems* (2020)\
-	Steven J. Large, Jannik Ehrich, and David A. Sivak  ([arXiv](https://arxiv.org/abs/2008.03402))
+	Steven J. Large, Jannik Ehrich, and David A. Sivak  ([arXiv](https://arxiv.org/abs/2008.03402))\
 	<sub> Introduction of TAFER (transduced additional free energy rate) to quantify how one part of a strongly coupled system drives another ("downstream") part, illustration with a model system, and connection to excess power and entropy production </sub>
 
 
