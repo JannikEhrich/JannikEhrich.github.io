@@ -18,3 +18,9 @@ I am interested in the nonequilibrium statistical physics of mesoscopic systems 
 * 2014 - 2016: Master in [Physics](https://uol.de/physik) at [Carl von Ossietzky Universität Oldenburg](https://uol.de), Germany
 * 2011 - 2014: Bachelor in [Engineering Physics](https://uol.de/ep) at [Carl von Ossietzky Universität Oldenburg](https://uol.de), Germany
 * born 1993
+
+## Contact:
+Department of Physics\
+Simon Fraser University\
+Burnaby, B.C., V5A 1S6\
+Canada
