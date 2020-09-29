@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Popular Science"
+permalink: /popular_science/
 author_profile: true
 ---
 I occasionally engage in popular science.
