@@ -5,6 +5,12 @@ main:
 
   - title: "Popular Science"
     url: /popular_science/
+    
+  - title: "Science"
+    url: /science/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
 
   #- title: "Talks"
    # url: /talks/    
