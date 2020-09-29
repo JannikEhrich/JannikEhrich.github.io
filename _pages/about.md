@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About me:
 I am a theoretical physicist currently working in the groups of [John Bechhoefer](http://www.sfu.ca/chaos/) and [David Sivak](https://www.sfu.ca/physics/sivakgroup.html) at [Simon Fraser University](https://www.sfu.ca) in Burnaby, Canada. I am an external member of the group of [Susanne Still](http://www2.hawaii.edu/~sstill/) at the University of Hawaii.
 
 I am interested in the nonequilibrium statistical physics of mesoscopic systems and the role information plays in nonequilibrium thermodynamics.
