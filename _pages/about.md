@@ -16,5 +16,5 @@ I am interested in the nonequilibrium statistical physics of mesoscopic systems 
 * October - December 2018: Visiting Scientist with [Juan M.R. Parrondo](https://parrondo.wixsite.com/home) at the [Universidad Complutense de Madrid](https://www.ucm.es)
 * 2016 - 2020: PhD with [Andreas Engel](https://uol.de/statphys) at the [Carl von Ossietzky Universität Oldenburg](https://uol.de)
 * 2014 - 2016: Master in [Physics](https://uol.de/physik) at the [Carl von Ossietzky Universität Oldenburg](https://uol.de)
-* 2011 - 2014: Bachelor in (Engineering Physics)[https://uol.de/ep] at the [Carl von Ossietzky Universität Oldenburg](https://uol.de)
+* 2011 - 2014: Bachelor in [Engineering Physics](https://uol.de/ep) at the [Carl von Ossietzky Universität Oldenburg](https://uol.de)
 * born 1993
