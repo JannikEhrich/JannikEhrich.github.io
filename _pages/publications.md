@@ -21,8 +21,8 @@ Below is a list of scientific articles that I have (co-) authored.
 0. *Finite-time Landauer Principle* **(Editors' Suggestion)**\
 	Karel Proesmans, Jannik Ehrich, and John Bechhoefer\
 	[Physical Review Letters **125**, 100602 (2020)](https://doi.org/10.1103/PhysRevLett.125.100602) ([arXiv](https://arxiv.org/abs/2006.03242))\
-	<sub> Refined Landauer limit for bit erasure in finite time, simple bounds on erasure cost, and a method for finding minimum-dissipation erasure protocols </sub>\
-	**Check out the coverage on [phys.org](https://phys.org/news/2020-10-protocol-minimize-thermodynamic-erasing-bit.html)**
+	<sub> Refined Landauer limit for bit erasure in finite time, simple bounds on erasure cost, and a method for finding minimum-dissipation erasure protocols\
+	**Check out the coverage on [phys.org](https://phys.org/news/2020-10-protocol-minimize-thermodynamic-erasing-bit.html)**</sub>
 	
 0. *Micro-reversibility and thermalization with collisional baths*\
 	Jannik Ehrich, Massimiliano Esposito, Felipe Barra, and Juan M.R. Parrondo\
