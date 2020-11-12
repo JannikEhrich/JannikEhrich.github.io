@@ -6,6 +6,10 @@ author_profile: true
 Below is a list of scientific articles that I have (co-) authored.
 
 ## Preprints
+* *Maximizing power and velocity of an information engine* (2020)\
+	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, John Bechhoefer  ([arXiv](https://arxiv.org/abs/2011.05478))\
+	<sub> Experimental realization of an "information ratchet" which rectifies thermal fluctuations of a micron-sized bead to lift it against gravity, optimization via theory of mean first-passage times, power and velocity an order of magnitude higher than in previously reported engines</sub>
+
 * *Free energy transduction within autonomous systems* (2020)\
 	Steven J. Large, Jannik Ehrich, and David A. Sivak  ([arXiv](https://arxiv.org/abs/2008.03402))\
 	<sub> Introduction of TAFER (transduced additional free energy rate) to quantify how one part of a strongly coupled system drives another ("downstream") part, illustration with a model system, and connection to excess power and entropy production </sub>
