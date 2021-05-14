@@ -14,6 +14,7 @@ Below is a list of scientific articles that I have (co-) authored.
 0. *Maximizing power and velocity of an information engine*\
 	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\
 	[Proceedings of the National Academy of Sciences of the United States of America **118**, e2023356118 (2021)](https://www.pnas.org/content/118/20/e2023356118) ([arXiv](https://arxiv.org/abs/2011.05478))\
+	**(News coverage on [SFU News](http://www.sfu.ca/sfunews/stories/2021/05/world-s-fastest-information-fuelled-engine-designed-by-sfu-resea.html?_ccCt=bvcv-2e95fe-4n516a-ddiegcx4))**\
 	<sub> Experimental realization of an "information ratchet" which rectifies thermal fluctuations of a micron-sized bead to lift it against gravity, optimization via theory of mean first-passage times, power and velocity an order of magnitude higher than in previously reported engines</sub>
 
 0. *Free energy transduction within autonomous systems*\
