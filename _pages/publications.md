@@ -5,9 +5,10 @@ author_profile: true
 ---
 Below is a list of scientific articles that I have (co-) authored.
 
-[//]: # ## Preprints
-[//]: #* 
-
+## Preprints
+* *Tightest bound on hidden entropy production from partially observed dynamics*\
+	Jannik Ehrich ([arXiv](https://arxiv.org/abs/2105.08803))\
+	<sub> Analysis of masked Markovian jump process, comparison of different lower bounds on entropy production from partial observation, and calculation of tightest bound by fitting a generating model to the observable data</sub>
 
 ## Published Articles
 
