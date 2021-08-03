@@ -8,7 +8,7 @@ Below is a list of scientific articles that I have (co-) authored.
 ## Preprints
 * *Maximal fluctuation exploitation in Gaussian information engines*\
 	Joseph N. E. Lucero, Jannik Ehrich, John Bechhoefer, and David A. Sivak ([arXiv](https://arxiv.org/abs/2108.00092))\
-	<sub> Exploration of performance limits of a model of a realistic information engine that can store output energy. Restricting engine output to work against external force can limit information-to-energy performance. Investigation of tradeoff between input work and output work.</sub>
+	<sub> Exploration of performance limits of a model of a realistic information engine that can store output energy, finding that restricting engine output to work against external force can limit information-to-energy performance, and investigation of tradeoff between input work and output work</sub>
 
 * *Tightest bound on hidden entropy production from partially observed dynamics*\
 	Jannik Ehrich ([arXiv](https://arxiv.org/abs/2105.08803))\
