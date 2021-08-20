@@ -10,11 +10,13 @@ Below is a list of scientific articles that I have (co-) authored.
 	Joseph N. E. Lucero, Jannik Ehrich, John Bechhoefer, and David A. Sivak ([arXiv](https://arxiv.org/abs/2108.00092))\
 	<sub> Exploration of performance limits of a model of a realistic information engine that can store output energy, finding that restricting engine output to work against external force can limit information-to-energy performance, and investigation of tradeoff between input work and output work</sub>
 
-* *Tightest bound on hidden entropy production from partially observed dynamics*\
-	Jannik Ehrich ([arXiv](https://arxiv.org/abs/2105.08803))\
-	<sub> Analysis of masked Markovian jump process, comparison of different lower bounds on entropy production from partial observation, and calculation of tightest bound by fitting a generating model to the observable data</sub>
 
 ## Published Articles
+
+0. *Tightest bound on hidden entropy production from partially observed dynamics*\
+	Jannik Ehrich\
+	[Journal of Statistical Mechanics: Theory and Experiment, 083214 (2021)](https://doi.org/10.1088/1742-5468/ac150e) ([arXiv](https://arxiv.org/abs/2105.08803))\
+	<sub> Analysis of masked Markovian jump process, comparison of different lower bounds on entropy production from partial observation, and calculation of tightest bound by fitting a generating model to the observable data</sub>
 
 0. *Maximizing power and velocity of an information engine*\
 	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\
