@@ -19,6 +19,8 @@ I am interested in the nonequilibrium statistical physics of mesoscopic systems 
 * 2011 - 2014: Bachelor in [Engineering Physics](https://uol.de/ep) at [Carl von Ossietzky Universität Oldenburg](https://uol.de), Germany
 * born 1993
 
+[download long CV](https://jannikehrich.github.io/files/CV_Jannik_Ehrich.pdf)
+
 ## Contact:
 Department of Physics\
 Simon Fraser University\
