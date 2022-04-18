@@ -9,6 +9,11 @@ Below is a list of scientific articles that I have (co-) authored.
 * *Maximal fluctuation exploitation in Gaussian information engines*\
 	Joseph N. E. Lucero, Jannik Ehrich, John Bechhoefer, and David A. Sivak ([arXiv](https://arxiv.org/abs/2108.00092))\
 	<sub> Exploration of performance limits of a model of a realistic information engine that can store output energy, finding that restricting engine output to work against external force can limit information-to-energy performance, and investigation of tradeoff between input work and output work</sub> -->
+	
+## Preprints
+* *Bayesian information engine that optimally exploits noisy measurements*\
+	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer ([arXiv](https://arxiv.org/abs/2204.07310))\
+	<sub> Experimental realization of an information ratchet with measurement errors, phase transition in performance at a critical signal-to-noise ratio below which no work extraction is possible, and Bayesian estimates of system positions drastically increases performance work</sub>
 
 
 ## Published Articles
