@@ -17,7 +17,7 @@ Below is a list of scientific articles that I have (co-) authored.
 
 * *Bayesian information engine that optimally exploits noisy measurements*\
 	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer ([arXiv](https://arxiv.org/abs/2204.07310))\
-	<sub> Experimental realization of an information ratchet with measurement errors, phase transition in performance at a critical signal-to-noise ratio below which no work extraction is possible, and Bayesian estimates of system positions drastically increases performance work</sub>
+	<sub> Experimental realization of an information ratchet with measurement errors, phase transition in performance at a critical signal-to-noise ratio below which no work extraction is possible, and Bayesian estimates of system positions drastically increases performance</sub>
 
 
 ## Published Articles
