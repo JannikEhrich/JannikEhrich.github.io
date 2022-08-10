@@ -20,7 +20,8 @@ Below is a list of scientific articles that I have (co-) authored.
 	<sub> Analysis of a thermodynamic process with repeated feedback, emphasizing that the controller is a physical system interacting with the feedback-controlled subsystem through interaction potentials, and derivation of minimal work needed to achieve feedback control</sub>
 
 * *Bayesian information engine that optimally exploits noisy measurements*\
-	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer ([arXiv](https://arxiv.org/abs/2204.07310))\
+	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\
+	 Physical Review Letters (in press) ([arXiv](https://arxiv.org/abs/2204.07310))\
 	<sub> Experimental realization of an information ratchet with measurement errors, phase transition in performance at a critical signal-to-noise ratio below which no work extraction is possible, and Bayesian estimates of system positions drastically increases performance</sub>
 
 
