@@ -11,6 +11,10 @@ Below is a list of scientific articles that I have (co-) authored.
 	<sub> Exploration of performance limits of a model of a realistic information engine that can store output energy, finding that restricting engine output to work against external force can limit information-to-energy performance, and investigation of tradeoff between input work and output work</sub> -->
 	
 ## Preprints
+* *Energy and information flows in autonomous systems*\
+	Jannik Ehrich and David A. Sivak ([arXiv](https://arxiv.org/abs/2209.10644))\
+	<sub> Review of recent progress in the study of information flow in bipartite stochastic systems, such as biomolecular sensors and strongly-coupled two-component molecular machines, and gentle introduction into the information-flow formalism</sub>
+
 * *Information engine in a nonequilibrium bath*\
 	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer ([arXiv](https://arxiv.org/abs/2208.00288))\
 	<sub> Experimental study of an information ratchet subjected to additional nonequilibrium fluctuations, boosting output power by up to an order of magnitude, and theoretical analysis of engine efficiency showing that information engines in nonequilibrium baths can greatly outperform conventional engines</sub>
@@ -19,13 +23,14 @@ Below is a list of scientific articles that I have (co-) authored.
 	Jannik Ehrich, Susanne Still, and David A. Sivak ([arXiv](https://arxiv.org/abs/2206.10793))\
 	<sub> Analysis of a thermodynamic process with repeated feedback, emphasizing that the controller is a physical system interacting with the feedback-controlled subsystem through interaction potentials, and derivation of minimal work needed to achieve feedback control</sub>
 
-* *Bayesian information engine that optimally exploits noisy measurements*\
-	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\
-	 Physical Review Letters (in press) ([arXiv](https://arxiv.org/abs/2204.07310))\
-	<sub> Experimental realization of an information ratchet with measurement errors, phase transition in performance at a critical signal-to-noise ratio below which no work extraction is possible, and Bayesian estimates of system positions drastically increases performance</sub>
-
 
 ## Published Articles
+
+0. *Bayesian information engine that optimally exploits noisy measurements*\
+	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\
+	[Physical Review Letters **129**, 130601 (2022)](https://doi.org/10.1103/PhysRevLett.129.130601) ([arXiv](https://arxiv.org/abs/2204.07310))\
+	**(Editors' Suggestion, Synopsis in [Physics](https://physics.aps.org/articles/v15/s133))**\
+	<sub> Experimental realization of an information ratchet with measurement errors, phase transition in performance at a critical signal-to-noise ratio below which no work extraction is possible, and Bayesian estimates of system positions drastically increases performance</sub>
 
 0. *Maximal fluctuation exploitation in Gaussian information engines*\
 	Joseph N. E. Lucero, Jannik Ehrich, John Bechhoefer, and David A. Sivak\
