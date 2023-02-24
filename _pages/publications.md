@@ -12,7 +12,8 @@ Below is a list of scientific articles that I have (co-) authored.
 	
 ## Preprints
 * *Energy and information flows in autonomous systems*\
-	Jannik Ehrich and David A. Sivak ([arXiv](https://arxiv.org/abs/2209.10644))\
+	Jannik Ehrich and David A. Sivak\
+	[in press at Frontiers in Physics](https://www.frontiersin.org/articles/10.3389/fphy.2023.1108357/abstract) ([arXiv](https://arxiv.org/abs/2209.10644))\
 	<sub> Review of recent progress in the study of information flow in bipartite stochastic systems, such as biomolecular sensors and strongly-coupled two-component molecular machines, and gentle introduction into the information-flow formalism</sub>
 
 * *Information engine in a nonequilibrium bath*\
