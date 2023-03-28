@@ -22,7 +22,7 @@ Below is a list of scientific articles that I have (co-) authored.
 
 * *Energetic cost of feedback control*\
 	Jannik Ehrich, Susanne Still, and David A. Sivak\
-	[in press at Phys. Rev. Research](https://journals.aps.org/prresearch/accepted/e2075J05L66103020075520110364dcde19344b50)([arXiv](https://arxiv.org/abs/2206.10793))\
+	[in press at Phys. Rev. Research](https://journals.aps.org/prresearch/accepted/e2075J05L66103020075520110364dcde19344b50) ([arXiv](https://arxiv.org/abs/2206.10793))\
 	<sub> Analysis of a thermodynamic process with repeated feedback, emphasizing that the controller is a physical system interacting with the feedback-controlled subsystem through interaction potentials, and derivation of minimal work needed to achieve feedback control</sub>
 
 
