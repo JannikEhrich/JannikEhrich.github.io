@@ -31,7 +31,7 @@ Below is a list of scientific articles that I have (co-) authored.
 0. *Bayesian information engine that optimally exploits noisy measurements*\
 	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\
 	[Physical Review Letters **129**, 130601 (2022)](https://doi.org/10.1103/PhysRevLett.129.130601) ([arXiv](https://arxiv.org/abs/2204.07310))\
-	**(Editors' Suggestion, Synopsis in [Physics](https://physics.aps.org/articles/v15/s133))**\
+	**(Editors' Suggestion, [Synopsis in Physics](https://physics.aps.org/articles/v15/s133))**\
 	<sub> Experimental realization of an information ratchet with measurement errors, phase transition in performance at a critical signal-to-noise ratio below which no work extraction is possible, and Bayesian estimates of system positions drastically increases performance</sub>
 
 0. *Maximal fluctuation exploitation in Gaussian information engines*\
