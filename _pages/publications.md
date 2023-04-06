@@ -11,11 +11,6 @@ Below is a list of scientific articles that I have (co-) authored.
 	<sub> Exploration of performance limits of a model of a realistic information engine that can store output energy, finding that restricting engine output to work against external force can limit information-to-energy performance, and investigation of tradeoff between input work and output work</sub> -->
 	
 ## Preprints
-* *Energy and information flows in autonomous systems*\
-	Jannik Ehrich and David A. Sivak\
-	[in press at Frontiers in Physics](https://www.frontiersin.org/articles/10.3389/fphy.2023.1108357/abstract) ([arXiv](https://arxiv.org/abs/2209.10644))\
-	<sub> Review of recent progress in the study of information flow in bipartite stochastic systems, such as biomolecular sensors and strongly-coupled two-component molecular machines, and gentle introduction into the information-flow formalism</sub>
-
 * *Information engine in a nonequilibrium bath*\
 	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer ([arXiv](https://arxiv.org/abs/2208.00288))\
 	<sub> Experimental study of an information ratchet subjected to additional nonequilibrium fluctuations, boosting output power by up to an order of magnitude, and theoretical analysis of engine efficiency showing that information engines in nonequilibrium baths can greatly outperform conventional engines</sub>
@@ -27,6 +22,11 @@ Below is a list of scientific articles that I have (co-) authored.
 
 
 ## Published Articles
+
+0. *Energy and information flows in autonomous systems*\
+	Jannik Ehrich and David A. Sivak\
+	[Frontiers in Physics **11**, 1108357 (2023)](https://www.frontiersin.org/articles/10.3389/fphy.2023.1108357/abstract) ([arXiv](https://arxiv.org/abs/2209.10644))\
+	<sub> Review of recent progress in the study of information flow in bipartite stochastic systems, such as biomolecular sensors and strongly-coupled two-component molecular machines, and gentle introduction into the information-flow formalism</sub>
 
 0. *Bayesian information engine that optimally exploits noisy measurements*\
 	Tushar K. Saha, Joseph N. E. Lucero, Jannik Ehrich, David A. Sivak, and John Bechhoefer\
