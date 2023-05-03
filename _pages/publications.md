@@ -19,13 +19,13 @@ Below is a list of scientific articles that I have (co-) authored.
 	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer ([arXiv](https://arxiv.org/abs/2208.00288))\
 	<sub> Experimental study of an information ratchet subjected to additional nonequilibrium fluctuations, boosting output power by up to an order of magnitude, and theoretical analysis of engine efficiency showing that information engines in nonequilibrium baths can greatly outperform conventional engines</sub>
 
-* *Energetic cost of feedback control*\
-	Jannik Ehrich, Susanne Still, and David A. Sivak\
-	[in press at Phys. Rev. Research](https://journals.aps.org/prresearch/accepted/e2075J05L66103020075520110364dcde19344b50) ([arXiv](https://arxiv.org/abs/2206.10793))\
-	<sub> Analysis of a thermodynamic process with repeated feedback, emphasizing that the controller is a physical system interacting with the feedback-controlled subsystem through interaction potentials, and derivation of minimal work needed to achieve feedback control</sub>
-
 
 ## Published Articles
+
+0. *Energetic cost of feedback control*\
+	Jannik Ehrich, Susanne Still, and David A. Sivak\
+	[Physical Reviev Research **05**, 023080 (2023)]([https://doi.org/10.1103/PhysRevLett.129.130601](https://doi.org/10.1103/PhysRevResearch.5.023080)) ([arXiv](https://arxiv.org/abs/2209.10644))\
+	<sub> Analysis of a thermodynamic process with repeated feedback, emphasizing that the controller is a physical system interacting with the feedback-controlled subsystem through interaction potentials, and derivation of minimal work needed to achieve feedback control</sub>
 
 0. *Energy and information flows in autonomous systems*\
 	Jannik Ehrich and David A. Sivak\
