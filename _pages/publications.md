@@ -15,12 +15,13 @@ Below is a list of scientific articles that I have (co-) authored.
 	Mathis Grelier, David A. Sivak, and Jannik Ehrich ([arXiv](https://arxiv.org/abs/2304.06690))\
 	<sub> Optimization of a discrete-state model of the molecular motor FoF1 ATP-synthase for output power, finding that information transduction is not needed for optimal performance in isothermal conditions. When the two machine components are in contact with heat baths at different temperatures, information flow becomes a valuable ressource.</sub>
 
-* *Information engine in a nonequilibrium bath*\
-	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer ([arXiv](https://arxiv.org/abs/2208.00288))\
-	<sub> Experimental study of an information ratchet subjected to additional nonequilibrium fluctuations, boosting output power by up to an order of magnitude, and theoretical analysis of engine efficiency showing that information engines in nonequilibrium baths can greatly outperform conventional engines</sub>
-
 
 ## Published Articles
+
+0. *Information engine in a nonequilibrium bath*\
+	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer
+	[Physical Reviev Letters **131**, 057101 (2023)](https://doi.org/10.1103/PhysRevLett.131.057101) ([arXiv](https://arxiv.org/abs/2208.00288)\
+	<sub> Experimental study of an information ratchet subjected to additional nonequilibrium fluctuations, boosting output power by up to an order of magnitude, and theoretical analysis of engine efficiency showing that information engines in nonequilibrium baths can greatly outperform conventional engines</sub>
 
 0. *Energetic cost of feedback control*\
 	Jannik Ehrich, Susanne Still, and David A. Sivak\
