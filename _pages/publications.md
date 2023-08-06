@@ -19,7 +19,7 @@ Below is a list of scientific articles that I have (co-) authored.
 ## Published Articles
 
 0. *Information engine in a nonequilibrium bath*\
-	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer
+	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer\
 	[Physical Reviev Letters **131**, 057101 (2023)](https://doi.org/10.1103/PhysRevLett.131.057101) ([arXiv](https://arxiv.org/abs/2208.00288)\
 	<sub> Experimental study of an information ratchet subjected to additional nonequilibrium fluctuations, boosting output power by up to an order of magnitude, and theoretical analysis of engine efficiency showing that information engines in nonequilibrium baths can greatly outperform conventional engines</sub>
 
