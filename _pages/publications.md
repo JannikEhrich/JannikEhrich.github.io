@@ -11,13 +11,18 @@ Below is a list of scientific articles that I have (co-) authored.
 	<sub> Exploration of performance limits of a model of a realistic information engine that can store output energy, finding that restricting engine output to work against external force can limit information-to-energy performance, and investigation of tradeoff between input work and output work</sub> -->
 	
 ## Preprints
-* *Unlocking the potential of information flow: Maximizing free-energy transduction in a model of an autonomous rotary molecular motor*\
-	Mathis Grelier, David A. Sivak, and Jannik Ehrich ([arXiv](https://arxiv.org/abs/2304.06690))\
-	<sub> Optimization of a discrete-state model of the molecular motor FoF1 ATP-synthase for output power, finding that information transduction is not needed for optimal performance in isothermal conditions. When the two machine components are in contact with heat baths at different temperatures, information flow becomes a valuable ressource.</sub>
+* *Information Arbitrage in Bipartite Heat Engines*\
+	Matthew P. Leighton, Jannik Ehrich, and David A. Sivak ([arXiv](https://arxiv.org/abs/2308.06325))\
+	<sub> Bipartite heat engines working between heat reservoirs at different temperatures must behave as information engines to produce net output work. Study of several model system illustrating the relationship between heat and information engines.</sub>
 
 
 ## Published Articles
 
+0. *Unlocking the potential of information flow: Maximizing free-energy transduction in a model of an autonomous rotary molecular motor*\
+	Mathis Grelier, David A. Sivak, and Jannik Ehrich\
+	[Physical Reviev E **109**, 034115 (2024)](https://doi.org/10.1103/PhysRevE.109.034115) ([arXiv](https://arxiv.org/abs/2304.06690))\
+	<sub> Optimization of a discrete-state model of the molecular motor FoF1 ATP-synthase for output power, finding that information transduction is not needed for optimal performance in isothermal conditions. When the two machine components are in contact with heat baths at different temperatures, information flow becomes a valuable ressource.</sub>
+ 
 0. *Information engine in a nonequilibrium bath*\
 	Tushar K. Saha, Jannik Ehrich, Momčilo Gavrilov, Susanne Still, David A. Sivak, and John Bechhoefer\
 	[Physical Reviev Letters **131**, 057101 (2023)](https://doi.org/10.1103/PhysRevLett.131.057101) ([arXiv](https://arxiv.org/abs/2208.00288)\
