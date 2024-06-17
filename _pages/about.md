@@ -29,4 +29,4 @@ Simon Fraser University\
 Burnaby, B.C., V5A 1S6\
 Canada 
 -->
-Email: jannik_ehrich AT sfu.ca
+Email: jannik_ehrich AT proton.me
